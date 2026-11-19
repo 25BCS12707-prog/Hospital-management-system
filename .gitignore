@@ -1,0 +1,6 @@
+out/
+hospital.dat
+
+# web frontend
+frontend/node_modules/
+frontend/dist/
